@@ -1,16 +1,4 @@
-plot(iris$Petal.Length, iris$Petal.Width, pch=21, bg=c("red","green","blue")
-     [unclass(iris$Species)],main="Iris Data")
-
-
-
-df1=iris
-df1
-
-iris[,1:4]
-
-
 n=150
-
 d1=0
 loss=c(0,0,0,0,0)
 k_values=c(1,2,3,4,5)
